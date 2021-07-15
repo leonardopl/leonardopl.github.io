@@ -1,4 +1,3 @@
-# Leonardo Pestana Legori
 I'm a soon to be Biochemical Engineer with particular interest in programming, bioinformatics, data science and senescence research.
 
 ## Education and work experience
