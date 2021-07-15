@@ -18,4 +18,4 @@ A simple phonebook app built as part of the [Full Stack Open course](https://ful
 Get some key facts and the current weather of any country! Built with ReactJS using axios to get familiar with promises and querying data through REST API.
 
 ### [Other assortment of apps](https://github.com/leonardopl/full-stack-open-2020/)
-Other assortment of apps built as exercises for the [Full Stack Open course](https://fullstackopen.com/en/) from Helsinki University.
+Small apps built as exercises for the [Full Stack Open course](https://fullstackopen.com/en/) from Helsinki University.
