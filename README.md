@@ -1,5 +1,5 @@
 ## About me
-I'm a soon to be Biochemical Engineer with particular interest in programming, bioinformatics, data science and senescence research.
+I'm a soon to be Biochemical Engineer with particular interest in programming, bioinformatics, data science and senescence research. Click [here](https://github.com/leonardopl/) to access my GitHub profile.
 
 ## Education and work experience
 Please visit my [Linkedin profile](https://www.linkedin.com/in/leonardopl/) for a detailed overview.
