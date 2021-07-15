@@ -13,3 +13,6 @@ A simple phonebook app built as part of the [Full Stack Open course](https://ful
   - MongoDB Atlas for storing data
   - Heroku for deploying live app
 - [Link for live instance on Heroku](https://powerful-reef-17205.herokuapp.com/)
+
+### [Countries app](https://github.com/leonardopl/full-stack-open-2020/tree/main/part2/countries)
+Get some key facts and the current weather of any country! Built with ReactJS.
