@@ -6,7 +6,7 @@ Please visit my [Linkedin profile](https://www.linkedin.com/in/leonardopl/) for 
 
 ## Projects
 ### [Phonebook app](https://github.com/leonardopl/full-stack-open-2021-part3)
-A simple phonebook app and part of the [Full Stack Open course](https://fullstackopen.com/en/) from Helsinki University. Technologies used:
+A simple phonebook app built as part of the [Full Stack Open course](https://fullstackopen.com/en/) from Helsinki University. Technologies used:
 - ReactJS frontend
 - Node.js backend
   - MongoDB Atlas for storing data
