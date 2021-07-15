@@ -5,7 +5,6 @@ I'm a soon to be Biochemical Engineer with particular interest in programming, b
 Please visit my [Linkedin profile](https://www.linkedin.com/in/leonardopl/) for a detailed overview.
 
 ## Projects
-
 ### [Phonebook app](https://github.com/leonardopl/full-stack-open-2021-part3)
 Part of the Full Stack course from Hensilk University. For this project I built:
 - ReactJS frontend
