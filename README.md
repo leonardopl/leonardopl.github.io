@@ -1,5 +1,7 @@
 ## About me
-I'm a soon to be Biochemical Engineer with particular interest in programming, bioinformatics, data science and senescence research. Click [here](https://github.com/leonardopl/) to access my GitHub profile.
+I have an MSc in Computer Engineering (focusing on artificial intelligence, computer vision, and medical image analysis) and a BSc in Biochemical Engineering.
+
+My interests include programming, deep learning, bioinformatics, and data science.
 
 ## Education and work experience
 Please visit my [Linkedin profile](https://www.linkedin.com/in/leonardopl/) for a detailed overview.
