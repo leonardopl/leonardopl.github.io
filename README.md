@@ -6,6 +6,7 @@ My interests include programming, deep learning, bioinformatics, and data scienc
 ## Education and work experience
 Please visit my [Linkedin profile](https://www.linkedin.com/in/leonardopl/) for a detailed overview.
 
+<!---
 ## Projects
 ### [Phonebook app](https://github.com/leonardopl/full-stack-open-2021-part3)
 A simple phonebook app built as part of the [Full Stack Open course](https://fullstackopen.com/en/) from Helsinki University. Technologies used:
@@ -21,3 +22,4 @@ Get some key facts and the current weather of any country! Built with ReactJS us
 
 ### [Other assortment of apps](https://github.com/leonardopl/full-stack-open-2020/)
 Small apps built as exercises for the [Full Stack Open course](https://fullstackopen.com/en/) from Helsinki University.
+--->
