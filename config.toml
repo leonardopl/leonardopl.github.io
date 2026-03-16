@@ -1,0 +1,37 @@
+base_url = "https://leonardopl.github.io"
+theme = "tabi"
+
+title = "Leonardo Pestana Legori"
+description = "Developer & Engineer"
+author = "Leonardo Pestana Legori"
+
+default_language = "en"
+
+taxonomies = [{name = "tags", feed = true}]
+
+compile_sass = true
+minify_html = true
+
+[extra]
+stylesheets = ["css/custom.css"]
+
+remote_repository_url = "https://github.com/leonardopl/leonardopl.github.io"
+show_remote_changes = false
+show_remote_source = true
+
+theme_switcher = true
+skin = "teal"
+default_theme = "dark"
+browser_theme_color = ["#ffffff", "#000000"]
+
+copyright = "Copyright © $CURRENT_YEAR $AUTHOR. All rights reserved."
+
+menu = [
+    { name = "Projects", url = "projects", trailing_slash = true },
+]
+
+email = "bGVvbmFyZG8ucGVzdGFuYS1sZWdvcmlAdWhhLmZy"
+socials = [
+    { name = "github",   url = "https://github.com/leonardopl", icon = "github" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/leonardopl", icon = "linkedin" },
+]
