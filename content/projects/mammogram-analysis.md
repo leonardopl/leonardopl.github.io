@@ -1,7 +1,7 @@
 +++
 title = "Mammogram Pectoral Muscle Segmentation"
 description = "Pectoral muscle segmentation in mammograms using C++ and OpenCV."
-weight = 6
+weight = 7
 [taxonomies]
 tags = ["C++", "Medical Imaging"]
 [extra]
